@@ -4,7 +4,12 @@
 
 <div class="content">
 
- <h1>Content</h1>
+<h1>Content</h1>
+    <?php
+       
+        
+    
+    ?>
 </div>
 
 <?php
