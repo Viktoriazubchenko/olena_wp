@@ -11,6 +11,7 @@ if(! defined('OLENA_DIR_URI')) {
 }
 
 require_once  OLENA_DIR_PATH . '/inc/helpers/autoloader.php';
+require_once OLENA_DIR_PATH . '/inc/helpers/template-tags.php';
 
 
 function olena_get_theme_instance() {
